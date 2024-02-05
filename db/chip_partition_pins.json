@@ -1,0 +1,121 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "lcd[0]",
+					"strict" : false
+				},
+				{
+					"name" : "lcd[1]",
+					"strict" : false
+				},
+				{
+					"name" : "lcd[2]",
+					"strict" : false
+				},
+				{
+					"name" : "lcd[3]",
+					"strict" : false
+				},
+				{
+					"name" : "lcd[4]",
+					"strict" : false
+				},
+				{
+					"name" : "lcd[5]",
+					"strict" : false
+				},
+				{
+					"name" : "lcd[6]",
+					"strict" : false
+				},
+				{
+					"name" : "lcd[7]",
+					"strict" : false
+				},
+				{
+					"name" : "lcd[8]",
+					"strict" : false
+				},
+				{
+					"name" : "lcd[9]",
+					"strict" : false
+				},
+				{
+					"name" : "lcd[10]",
+					"strict" : false
+				},
+				{
+					"name" : "lcd[11]",
+					"strict" : false
+				},
+				{
+					"name" : "leds[0]",
+					"strict" : false
+				},
+				{
+					"name" : "leds[1]",
+					"strict" : false
+				},
+				{
+					"name" : "rled",
+					"strict" : false
+				},
+				{
+					"name" : "clk",
+					"strict" : false
+				},
+				{
+					"name" : "sw",
+					"strict" : false
+				},
+				{
+					"name" : "reset_n",
+					"strict" : false
+				},
+				{
+					"name" : "bin[0]",
+					"strict" : false
+				},
+				{
+					"name" : "start",
+					"strict" : false
+				},
+				{
+					"name" : "switches[0]",
+					"strict" : false
+				},
+				{
+					"name" : "switches[1]",
+					"strict" : false
+				},
+				{
+					"name" : "bin[1]",
+					"strict" : false
+				},
+				{
+					"name" : "switches[2]",
+					"strict" : false
+				},
+				{
+					"name" : "altera_reserved_tms",
+					"strict" : false
+				},
+				{
+					"name" : "altera_reserved_tck",
+					"strict" : false
+				},
+				{
+					"name" : "altera_reserved_tdi",
+					"strict" : false
+				},
+				{
+					"name" : "altera_reserved_tdo",
+					"strict" : false
+				}
+			]
+		}
+	]
+}
